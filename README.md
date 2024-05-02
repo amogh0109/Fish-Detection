@@ -14,4 +14,10 @@ This repository hosts a machine learning model for detecting and classifying fis
 
 ```bash
 git clone https://github.com/your-repository/fish-detection.git
+
 cd fish-detection
+
+python fish_detection.py
+
+
+
